@@ -1,5 +1,7 @@
 # Dhanin T — Personal Portfolio
 
+https://marvelous-gumdrop-21e48d.netlify.app/
+
 A dark-themed, animated personal portfolio built with plain HTML5, CSS3, and JavaScript (no build step required).
 
 ## Structure
