@@ -52,6 +52,3 @@ Then visit `http://localhost:8000`.
 - [AOS](https://michalsnik.github.io/aos/) — scroll reveal animations
 - Google Fonts: Poppins (display/body), JetBrains Mono (terminal/code accents)
 
-# portfolionew
-
-# portfolionew
